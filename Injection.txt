@@ -1,0 +1,48 @@
+**********************************
+Injection ID : 1
+Student ID : SE1500
+Student Name : Hoa_Doan
+-----1st Injection-----
+Vaccine ID : Covid-V004
+Place : Da Nang
+Date : 2021-05-20
+-----2nd Injection-----
+Vaccine ID : null
+Place : null
+Date : null
+**********************************
+Injection ID : 2
+Student ID : SE160947
+Student Name : Duc_Trung
+-----1st Injection-----
+Vaccine ID : Covid-V001
+Place : Ho Chi Minh
+Date : 2021-12-31
+-----2nd Injection-----
+Vaccine ID : Covid-V001
+Place : Dong Nai
+Date : 2022-04-12
+**********************************
+Injection ID : 3
+Student ID : SE123456
+Student Name : Van_Khanh
+-----1st Injection-----
+Vaccine ID : Covid-V003
+Place : Ho Chi Minh
+Date : 2020-09-12
+-----2nd Injection-----
+Vaccine ID : null
+Place : null
+Date : null
+**********************************
+Injection ID : 4
+Student ID : SE654321
+Student Name : Tien_Duc
+-----1st Injection-----
+Vaccine ID : Covid-V004
+Place : Dong Nai
+Date : 2022-01-03
+-----2nd Injection-----
+Vaccine ID : null
+Place : null
+Date : null
